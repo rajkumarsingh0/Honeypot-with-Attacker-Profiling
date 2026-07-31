@@ -1,0 +1,10 @@
+mysql-connector-python
+pandas
+scikit-learn
+joblib
+python-dotenv
+requests
+google-genai
+watchdog
+geoip2
+paramiko
